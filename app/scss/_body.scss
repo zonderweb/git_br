@@ -1,0 +1,22 @@
+.main-left,
+.main-content {
+	border: 2px solid #fff;
+	height: 50vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.main {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.main-left {
+	min-width: 25%;
+}
+
+.main-content {
+	min-width: 75%;
+}
